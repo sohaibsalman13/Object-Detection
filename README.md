@@ -1,5 +1,5 @@
 # <div align=center>duckietown_CD70</div>
-#### <div align="center">" This repository is created for object recognition functionality of Duckiebot, </div>
+#### <div align="center"> This repository is created for object detection applied on the Duckiebot. Technologies invloved are ROS, Roboflow, Vott and Yolov5  </div>
 
 ***
 
